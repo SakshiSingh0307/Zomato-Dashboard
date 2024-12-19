@@ -31,7 +31,10 @@ I created this Power BI dashboard to analyze Zomato's user preferences, city per
 
 ### Publishing and Sharing  
 11. After completing the dashboard, I published it to the Power BI Service for accessibility.  
-12. I shared the report with stakeholders via a Power BI link and embedded it into collaborative platforms like Microsoft Teams.  
+12. I shared the report with stakeholders via a Power BI link.
+
+Link of this report:
+https://app.powerbi.com/view?r=eyJrIjoiNGE0MDNjNTItZjg0Mi00M2RhLWJhNzktMTlmOWZmNGMzY2YwIiwidCI6ImQ0NzUyNWJmLTYwMmQtNGVkNy04YzYwLTNkYjBlYzM3ZTI2NiIsImMiOjEwfQ%3D%3D
 
 ## Features and Interactivity  
 - **Navigation Icons**: Located on the right side, these icons enable seamless transitions between different sections of the dashboard.  
